@@ -2,7 +2,6 @@
 docs
 *.session
 config.ini
-main.py
 unknown_errors.txt
 .DS_Store
 
